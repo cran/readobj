@@ -1,7 +1,7 @@
-610dc87082d0d2137e971deccef7c34a *DESCRIPTION
+02427f764ba3b8001ee049eb13b8301f *DESCRIPTION
 b4e084a3387667caa5da137cbeee5d5d *LICENSE
 5ec68e5cabb168c80163d4640f22de04 *NAMESPACE
-34bfd326bdafb3bd989e5f3193582eb3 *NEWS.md
+c59df0dbe5351373ad23ae9beef718fb *NEWS.md
 0267e4fb3db4e4559dcbf673f5ab0fe1 *R/RcppExports.R
 9f80ce7713654107f45c615596aabdfd *R/loadobj.R
 3ebd9c24f81a060883523a06b438df3b *R/mesh3d.R
@@ -18,6 +18,6 @@ fb49b24269944072038258d35a9fcfc8 *src/loadobj.cpp
 4435a3ed69468d3f77148b593e53c95d *src/tiny_obj_loader.cc
 e95cd4bb2d72ca4611dca76ad8ff63c8 *src/tiny_obj_loader.h
 2d64f3f3030b979ed908a1e08b5dd8e7 *tests/testthat.R
-aa5363fcc6bb7b058f5847dbff36c55e *tests/testthat/test-loadobj.R
+db2e45442eaf7c263c7cdfc9300d8cb0 *tests/testthat/test-loadobj.R
 1e50f1dd273266f9705024fc13fdbbdd *tests/testthat/testdata/cube.rds
 3e4a2948f3ff5f988eb06b84e74c9291 *tests/testthat/testdata/cubesl.rds

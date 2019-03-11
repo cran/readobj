@@ -1,10 +1,10 @@
 Package: readobj
 Type: Package
 Title: Fast Reader for 'Wavefront' OBJ 3D Scene Files
-Version: 0.3.1
+Version: 0.3.2
 Authors@R: c(
     person("Gregory", "Jefferis", email = "jefferis@gmail.com",
-    role = c("aut", "cph", "cre")),
+    role = c("aut", "cph", "cre"), comment = c(ORCID = "0000-0002-0587-9355")),
     person("Syoyo", "Fujita", role=c("aut", "cph"),
     comment="tiny_obj_loader.* are copyright Syoyo Fujita")
     )
@@ -20,11 +20,12 @@ LinkingTo: Rcpp
 Suggests: testthat, rgl
 URL: https://github.com/jefferis/readobj
 BugReports: https://github.com/jefferis/readobj/issues
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
 NeedsCompilation: yes
-Packaged: 2018-10-03 09:06:19 UTC; jefferis
-Author: Gregory Jefferis [aut, cph, cre],
+Packaged: 2019-03-11 11:28:30 UTC; jefferis
+Author: Gregory Jefferis [aut, cph, cre]
+    (<https://orcid.org/0000-0002-0587-9355>),
   Syoyo Fujita [aut, cph] (tiny_obj_loader.* are copyright Syoyo Fujita)
 Maintainer: Gregory Jefferis <jefferis@gmail.com>
 Repository: CRAN
-Date/Publication: 2018-10-03 09:30:02 UTC
+Date/Publication: 2019-03-11 11:50:03 UTC
