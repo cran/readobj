@@ -1,7 +1,7 @@
 Package: readobj
 Type: Package
 Title: Fast Reader for 'Wavefront' OBJ 3D Scene Files
-Version: 0.4.0
+Version: 0.4.1
 Authors@R: c(
     person("Gregory", "Jefferis", email = "jefferis@gmail.com",
     role = c("aut", "cph", "cre"), comment = c(ORCID = "0000-0002-0587-9355")),
@@ -24,11 +24,11 @@ RoxygenNote: 7.1.1
 Encoding: UTF-8
 Language: en-GB
 NeedsCompilation: yes
-Packaged: 2021-06-28 09:06:01 UTC; jefferis
+Packaged: 2021-07-02 20:02:58 UTC; jefferis
 Author: Gregory Jefferis [aut, cph, cre]
     (<https://orcid.org/0000-0002-0587-9355>),
   Syoyo Fujita [aut, cph] (tiny_obj_loader.* are copyright Syoyo Fujita),
   Trevor L Davis [aut]
 Maintainer: Gregory Jefferis <jefferis@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-06-28 10:20:02 UTC
+Date/Publication: 2021-07-03 07:10:02 UTC
